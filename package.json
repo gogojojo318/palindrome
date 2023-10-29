@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gogojojo318/palindrome/issues"
   },
-  "homepage": "https://github.com/gogojojo318/palindrome#readme"
+  "homepage": "https://github.com/gogojojo318/palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
 }
